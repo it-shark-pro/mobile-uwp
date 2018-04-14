@@ -1,7 +1,3 @@
-# mobile-uwp
-Materials about development for Universal Windows Platform
-
-
 # IT Shark Mobile - Universal Windows Platform
 Список ссылок на полезные, необходимые материалы и ресурсы по разработке универсальных приложений для Windows.
 
