@@ -7,3 +7,4 @@
 
 ## Курсы
 - [Введение в разработку приложений на Windows 10](https://mva.microsoft.com/ru/training-courses/-windows-10-15867?l=te9X0gf7B_5605192797)
+- [Разработка для Windows 10 для начинающих](https://mva.microsoft.com/ru/training-courses/-windows-10--14541?l=cWn0dxwqB_4305632527) :gb:
