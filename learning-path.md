@@ -10,7 +10,26 @@
 
 ## Novice
 
+- [ ] [What's a UWP application?](https://docs.microsoft.com/ru-ru/windows/uwp/get-started/universal-application-platform-guide)
+- [ ] Languages
+    - [ ] C#
+        - [ ] [C# In-Browser Tutorial](https://www.microsoft.com/net/tutorials/csharp/getting-started)
+        - [ ] [C# Guide](https://docs.microsoft.com/ru-ru/dotnet/csharp/index)
+    - [ ] XAML
+        - [ ] [XAML overview](https://docs.microsoft.com/ru-ru/windows/uwp/xaml-platform/xaml-overview)
+        - [ ] [XAML styles](https://docs.microsoft.com/ru-ru/windows/uwp/design/controls-and-patterns/xaml-styles)
+- [ ] [Devices overview](https://docs.microsoft.com/ru-ru/windows/uwp/design/devices/)
+- [ ] [Design basics]
+    - [ ] [Introduction to UWP app design](https://docs.microsoft.com/ru-ru/windows/uwp/design/basics/design-and-ui-intro)
+    - [ ] [Navigation basics](https://docs.microsoft.com/ru-ru/windows/uwp/design/basics/navigation-basics)
+    - [ ] [Command basics](https://docs.microsoft.com/ru-ru/windows/uwp/design/basics/commanding-basics)
+    - [ ] [Content basics](https://docs.microsoft.com/ru-ru/windows/uwp/design/basics/content-basics)
+- [ ] [Controls](https://docs.microsoft.com/ru-ru/windows/uwp/design/controls-and-patterns/)
+
+
 ## Intermediate
+
+- [ ] [Fluent Design System](https://docs.microsoft.com/ru-ru/windows/uwp/design/fluent-design-system/)
 
 ## Advanced
 
