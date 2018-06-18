@@ -19,7 +19,7 @@
         - [ ] [XAML overview](https://docs.microsoft.com/ru-ru/windows/uwp/xaml-platform/xaml-overview)
         - [ ] [XAML styles](https://docs.microsoft.com/ru-ru/windows/uwp/design/controls-and-patterns/xaml-styles)
 - [ ] [Devices overview](https://docs.microsoft.com/ru-ru/windows/uwp/design/devices/)
-- [ ] [Design basics]
+- [ ] Design basics
     - [ ] [Introduction to UWP app design](https://docs.microsoft.com/ru-ru/windows/uwp/design/basics/design-and-ui-intro)
     - [ ] [Navigation basics](https://docs.microsoft.com/ru-ru/windows/uwp/design/basics/navigation-basics)
     - [ ] [Command basics](https://docs.microsoft.com/ru-ru/windows/uwp/design/basics/commanding-basics)
