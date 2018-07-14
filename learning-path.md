@@ -35,8 +35,6 @@
         - [ ] [Language Integrated Query (LINQ)](https://docs.microsoft.com/ru-ru/dotnet/csharp/linq/)
         - [ ] [Lambda expressions](https://docs.microsoft.com/ru-ru/dotnet/csharp/lambda-expressions)
         - [ ] [C# Guide](https://docs.microsoft.com/ru-ru/dotnet/csharp/index)
-    - [ ] XAML
-        - [ ] []()
 - [ ] [Fluent Design System](https://docs.microsoft.com/ru-ru/windows/uwp/design/fluent-design-system/)
 - [ ] Notifications
     - [ ] [Toast notifications](https://docs.microsoft.com/ru-ru/windows/uwp/design/shell/tiles-and-notifications/adaptive-interactive-toasts)
